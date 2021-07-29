@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.header-bg-color{
+    background-color: #264653;
+}
+.purchase-btn{
+    background-color:#E76F51;
+}
+.img-gray-color {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+} 
+.image-transform{
+    width: 149px;
+    height: 149px;
+    
+}
+.icon-color{
+    color: #E77C40;
+}
+.bg-gray{
+    background-color: rgb(27, 21, 21);
+}
+
